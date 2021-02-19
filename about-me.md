@@ -12,12 +12,13 @@
 ### Connect with me:
 
 [![jamiegl.co.uk][iwebsite]][website]
+[![jamiegluk | GitHub][igithub22]][github]
 [![JamieGL | LinkedIn][ilinkedin]][linkedin]
 [![ArtyFishL | Google Play Store][igoogleplay]][googleplay]
 [![@scottish_jamie | Instagram][iinstagram]][instagram]
 [![jamie.lievesley | Facebook][ifacebook]][facebook]
 [![@scottish_jamie | Twitter][itwitter]][twitter]
-[![JamieGL | YouTube]][youtube]
+[![JamieGL | YouTube][iyoutube]][youtube]
 
 ### Languages and Tools:
 
@@ -97,9 +98,10 @@
 [npm]: https://www.npmjs.com/
 [winserver]: https://www.microsoft.com/en-us/windows-server/
 [ssms]: https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms
-[github]: https://github.com
+[github]: https://github.com/jamiegluk
 [git]: https://git-scm.com/
 [iwebsite]: https://raw.githubusercontent.com/jamiegluk/stack-overflow-jamiegl/master/img/22.6/globe.png
+[igithub22]: https://raw.githubusercontent.com/jamiegluk/stack-overflow-jamiegl/master/img/22.6/github.png
 [ilinkedin]: https://raw.githubusercontent.com/jamiegluk/stack-overflow-jamiegl/master/img/22.6/linkedin.png
 [igoogleplay]: https://raw.githubusercontent.com/jamiegluk/stack-overflow-jamiegl/master/img/22.6/googleplay.png
 [iinstagram]: https://raw.githubusercontent.com/jamiegluk/stack-overflow-jamiegl/master/img/22.6/instagram.png
