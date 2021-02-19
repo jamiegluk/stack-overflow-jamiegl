@@ -117,7 +117,7 @@
 [ijs]: https://raw.githubusercontent.com/jamiegluk/stack-overflow-jamiegl/master/img/26.6/javascript.png
 [icsharp]: https://raw.githubusercontent.com/jamiegluk/stack-overflow-jamiegl/master/img/26.6/csharp.png
 [idotnet]: https://raw.githubusercontent.com/jamiegluk/stack-overflow-jamiegl/master/img/26.6/dotnet.png
-[isqlserver]: https://raw.githubusercontent.com/jamiegluk/jamiegluk/master/img/sqlserver.png
+[isqlserver]: https://raw.githubusercontent.com/jamiegluk/stack-overflow-jamiegl/master/img/26.6/sqlserver.png
 [inodejs]: https://raw.githubusercontent.com/jamiegluk/stack-overflow-jamiegl/master/img/26.6/nodejs.png
 [iandroid]: https://raw.githubusercontent.com/jamiegluk/stack-overflow-jamiegl/master/img/26.6/android.png
 [ijava]: https://raw.githubusercontent.com/jamiegluk/stack-overflow-jamiegl/master/img/26.6/java.png
