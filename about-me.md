@@ -13,7 +13,7 @@
 
 ##
 
-### Senior Software Engineer at [OpenRad][openrad]
+### Senior Software Engineer at [Biotronics 3D][b3d]
 
 - 👨‍💻 Full-stack developer.
 - 🎨 UX design.
@@ -62,7 +62,7 @@
 
 [w]: https://jamiegl.co.uk
 [a]: https://artyfishl.com
-[openrad]: https://www.openrad.com/
+[b3d]: https://biotronics3d.com
 [ris]: https://en.wikipedia.org/wiki/Radiological_information_system
 [pacs]: https://en.wikipedia.org/wiki/Picture_archiving_and_communication_system
 [hl7]: http://www.hl7.org/
