@@ -2,14 +2,14 @@
 
 ##
 
-[![jamiegl.co.uk](https://jamiegl.com/so1/globe.png)][w]
-[![jamiegluk | GitHub](https://jamiegl.com/so1/github.png)](https://github.com/jamiegluk)
-[![JamieGL | LinkedIn](https://jamiegl.com/so1/linkedin.png)](https://www.linkedin.com/in/jamie-lievesley)
-[![ArtyFishL | Google Play Store](https://jamiegl.com/so1/googleplay.png)](https://play.google.com/store/apps/developer?id=artyfishl)
-[![@scottish_jamie | Instagram](https://jamiegl.com/so1/instagram.png)](https://www.instagram.com/scottish_jamie/)
-[![jamie.lievesley | Facebook](https://jamiegl.com/so1/facebook.png)](https://www.facebook.com/jamie.lievesley)
-[![@scottish_jamie | Twitter](https://jamiegl.com/so1/twitter.png)](https://twitter.com/scottish_jamie)
-[![JamieGL | YouTube](https://jamiegl.com/so1/youtube.png)](https://www.youtube.com/channel/ucyt8lb6u9gimok7fc0-xvya)
+[![jamiegl.co.uk](https://jamiegl.com/so3/globe.svg)][w]
+[![jamiegluk | GitHub](https://jamiegl.com/so3/github.svg)](https://github.com/jamiegluk)
+[![JamieGL | LinkedIn](https://jamiegl.com/so3/linkedin.svg)](https://www.linkedin.com/in/jamie-lievesley)
+[![ArtyFishL | Google Play Store](https://jamiegl.com/so3/googleplay.svg)](https://play.google.com/store/apps/developer?id=artyfishl)
+[![@scottish_jamie | Instagram](https://jamiegl.com/so3/instagram.svg)](https://www.instagram.com/scottish_jamie/)
+[![jamie.lievesley | Facebook](https://jamiegl.com/so3/facebook.svg)](https://www.facebook.com/jamie.lievesley)
+[![@scottish_jamie | Twitter](https://jamiegl.com/so3/twitter.svg)](https://twitter.com/scottish_jamie)
+[![JamieGL | YouTube](https://jamiegl.com/so3/youtube.svg)](https://www.youtube.com/channel/ucyt8lb6u9gimok7fc0-xvya)
 
 ##
 
