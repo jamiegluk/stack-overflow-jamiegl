@@ -8,7 +8,7 @@
 [![ArtyFishL | Google Play Store](https://jamiegl.com/so3/googleplay.svg)](https://play.google.com/store/apps/developer?id=artyfishl)
 [![@scottish_jamie | Instagram](https://jamiegl.com/so3/instagram.svg)](https://www.instagram.com/scottish_jamie/)
 [![jamie.lievesley | Facebook](https://jamiegl.com/so3/facebook.svg)](https://www.facebook.com/jamie.lievesley)
-[![@scottish_jamie | Twitter](https://jamiegl.com/so3/twitter.svg)](https://twitter.com/scottish_jamie)
+[![@scottish_jamie | X](https://jamiegl.com/so3/x.svg)](https://x.com/scottish_jamie)
 [![JamieGL | YouTube](https://jamiegl.com/so3/youtube.svg)](https://www.youtube.com/channel/ucyt8lb6u9gimok7fc0-xvya)
 
 ##
