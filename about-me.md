@@ -29,7 +29,7 @@
 ![React](https://jamiegl.com/so2/react.png)
 ![TypeScript](https://jamiegl.com/so2/typescript.png)
 ![Less](https://jamiegl.com/so2/less.png)
-![MobX](https://jamiegl.com/so2/mobx.png)
+![MobX](https://jamiegl.com/so3/mobx.svg)
 ![Bootstrap](https://jamiegl.com/so2/bootstrap.png)
 ![Sass](https://jamiegl.com/so2/sass.png)
 ![HTML5](https://jamiegl.com/so2/html.png)
