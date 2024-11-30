@@ -13,7 +13,7 @@
 
 ##
 
-### Senior Software Engineer at [Biotronics 3D][b3d]
+### Senior Software Engineer at [Biotronics3D][b3d]
 
 - 👨‍💻 Full-stack developer.
 - 🎨 UX design.
